@@ -10,9 +10,7 @@
 
 - SD Storage:
   
-  - SPI compatible SD card reader
-  
-  - 8gb MicroSD card
+  - SPI XTSD Flash
 
 - Environmental Sensors:
   
@@ -23,8 +21,6 @@
   - SEN55
   
   - SCD41
-
-
 
 ### System Layout:
 
